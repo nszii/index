@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## 走小路的路人
 
-You can use the [editor on GitHub](https://github.com/zxlder/index/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+相逢即是缘分，很高兴能在这里遇见你。
 
 ### Markdown
 
