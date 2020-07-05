@@ -1,37 +1,16 @@
-## Welcome to GitHub Pages
+S-CMS 走小路网络技术 -- S-CMS 建站专家
+哥是写代码的人，不搞那种花哨的主页。 :-)
 
-You can use the [editor on GitHub](https://github.com/zxlder/index.html/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+目前我们的网站：走小路网络技术、 TV15影视在线、全网VIP音乐下载
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+本站接单要求
+如果你是找我做项目，请一定要仔细查看下面的要求：
 
-### Markdown
+本站只承接接整站建设
+本站不参与比稿，接单要求预付50%，上线之后付剩下的50%。
+我们只提供整体报价，不提供各个功能价格表。
+我们比较装逼，接仿站的项目。
+我们严重装逼，接没有设计稿和需求文档的项目。
+如果你能接受以上要求，请联系 QQ：489746047，或者发邮件到：admin#zxld.com.cn(#=@)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/zxlder/index.html/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+粤ICP备20036292号 CopyRight © 2020 走小路网络技术 版权所有
